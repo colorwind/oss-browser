@@ -9,8 +9,8 @@ module.exports = {
 
   //app名称，需要提供各个语言版本
   appName: {
-    "zh-CN": "OSS浏览器",
-    "en-US": "OSS Browser",
+    "zh-CN": "冷山OSS浏览器",
+    "en-US": "冷山OSS浏览器",
   },
 
   //logo png 格式, 主要用于mac和linux系统

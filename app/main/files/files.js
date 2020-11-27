@@ -724,7 +724,7 @@ angular
                 info.bucket,
                 n.path,
                 3600,
-                "image/resize,w_48"
+                "image/resize,w_360"
               );
             }
           });

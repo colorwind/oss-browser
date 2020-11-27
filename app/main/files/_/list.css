@@ -1,7 +1,7 @@
 .item-block {
   float: left;
-  height: 50px;
-  width: 220px;
+  height: 400px;
+  width: 32%;
   margin: 6px;
   padding: 4px;
   border: 2px solid #eee;
@@ -28,7 +28,8 @@
 .item-block .item-block-name {
   float: left;
   display: block;
-  width: 140px;
+  margin: 0 5px;
+  /* width: 140px; */
   height: 20px;
   line-height: 20px;
 
